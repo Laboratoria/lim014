@@ -1,5 +1,7 @@
 # Taller: Pruebas unitarias y mocks - 22 Abr 2021
 
+[![LIM014: Taller: Pruebas unitarias y mocks - 22 Abr 2021](https://img.youtube.com/vi/6zZ_Jw5xrxE/0.jpg)](https://youtu.be/6zZ_Jw5xrxE)
+
 ## Preguntas/conceptos clave
 
 * ¿Qué es un _mock_?
