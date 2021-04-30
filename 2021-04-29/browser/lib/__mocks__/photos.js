@@ -1,0 +1,1 @@
+export const getPhotos = jest.fn().mockResolvedValue([]);
