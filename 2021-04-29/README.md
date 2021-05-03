@@ -1,8 +1,6 @@
 # Taller: Pruebas unitarias y mocks (parte 2) - 29 Abr 2021
 
-[Video próximamente...]
-
-<!-- [![LIM014: Taller: Pruebas unitarias y mocks - 29 Abr 2021](https://img.youtube.com/vi/6zZ_Jw5xrxE/0.jpg)](https://youtu.be/6zZ_Jw5xrxE) -->
+[![LIM014: Taller: Pruebas unitarias y mocks - 29 Abr 2021](https://img.youtube.com/vi/8MAdzw1Vpdo/0.jpg)](https://youtu.be/8MAdzw1Vpdo)
 
 ## Links
 
